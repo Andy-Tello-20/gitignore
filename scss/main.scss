@@ -1,0 +1,14 @@
+// Las variables siempre van arriba de todo
+
+@import "./utilities/colors";
+@import "./utilities/typo";
+
+// reseteo
+@import "./utilities/reset";
+
+
+// SECCIONES
+
+@import "./sections/header";
+@import "./sections/main_index";
+@import "./sections/footer";

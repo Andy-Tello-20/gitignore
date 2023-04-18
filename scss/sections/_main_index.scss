@@ -1,0 +1,18 @@
+.main-index{
+    .tercera{
+        display:flex;
+        .div-1{
+            background-color: $coral;
+            height: 150px;
+        }
+        .div-2{
+            background-color: $coral;
+            height: 75px;
+        }
+
+        .div-3{
+            background-color: $amarillo;
+            height: 150px*2;
+        }
+    }
+}

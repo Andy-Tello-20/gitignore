@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0; }
+
+.header h1 {
+  color: #60D394;
+  font-family: "Montserrat", sans-serif; }
+
+.main-index .tercera {
+  display: flex; }
+  .main-index .tercera .div-1 {
+    background-color: #AAF683;
+    height: 150px; }
+  .main-index .tercera .div-2 {
+    background-color: #FF9B85;
+    height: 75px; }
+  .main-index .tercera .div-3 {
+    background-color: #FFD97D;
+    height: 300px; }
